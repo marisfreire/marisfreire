@@ -1,7 +1,7 @@
 ### Olá, eu sou a Mariana Freire
 
 - 📚 Hoje sou estudante de Ciência da Computação na UFS
-- ✏ Atualmente estudando Javascript
+- ✏ Estudando Javascript, C e Ciência de Dados
 - 🤍 Pronomes: Ela/Dela
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marisfreire&show_icons=true&theme=cobalt)
