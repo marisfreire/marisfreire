@@ -1,7 +1,6 @@
-### Olá, eu sou a Mariana Freire
+### Mariana Freire
 
-- 📚 Hoje sou estudante de Ciência da Computação na UFPE
-- ✏ Estudando Python e Azure
+- 📚 Estudante de Ciência da Computação na UFPE 
 - 🤍 Pronomes: Ela/Dela
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marisfreire&show_icons=true&theme=cobalt)
