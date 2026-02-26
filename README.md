@@ -8,12 +8,6 @@
 
 ##
 
-<div>
-  <img align="center" alt="Mari-JS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
-  <img align="center" alt="Mari-HTML" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
-  <img align="center" alt="Mari-CSS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
-</div>
-
 ##
 
 
